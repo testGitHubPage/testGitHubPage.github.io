@@ -3,9 +3,9 @@
     - [guide](guide.md)
 
 - Client SDK
-    - [iOS SDK](dot-engine-ios-sdk.md)
-    - [Android SDK](dot-engine-android-sdk.md)
-    - [Javascript SDK](dot-engine-javascript-sdk.md)
+    - [iOS SDK](https://testgithubpage.github.io/docs/#/dot-engine-ios-sdk.md)
+    - [Android SDK](https://testgithubpage.github.io/docs/#/dot-engine-android-sdk.md)
+    - [Javascript SDK](https://testgithubpage.github.io/docs/#/dot-engine-javascript-sdk.md)
 
 
 - Server SDK
